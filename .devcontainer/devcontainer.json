@@ -4,6 +4,7 @@
         "z3z1ma.meltano-power-user",
         "redhat.vscode-yaml",
     ],
+    "postCreateCommand": "meltano --version",
     "dockerFile": "Dockerfile",
     "settings": {
     },

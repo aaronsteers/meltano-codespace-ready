@@ -1,4 +1,4 @@
-FROM meltano/meltano:v2.9.0-python3.10
+FROM meltano/meltano:latest-python3.9
 
 WORKDIR /home/
 
